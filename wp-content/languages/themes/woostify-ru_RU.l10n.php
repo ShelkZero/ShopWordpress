@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2024-05-12 10:11:12+0000','plural-forms'=>'nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);','project-id-version'=>'Themes - Woostify','language'=>'ru','messages'=>['Categories Menu'=>'Меню категорий','Enable Login Popup'=>'Включить всплывающее окно']];
